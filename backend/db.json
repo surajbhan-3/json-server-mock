@@ -1,44 +1,49 @@
 {
-  "events": [
-    {
-      "id": 1,
-      "poster": "https://www.timeoutdubai.com/cloud/timeoutdubai/2023/05/22/gigs-in-dubai-1.png",
-      "name": "Music Festival",
-      "description": "A vibrant music festival featuring top artists from around the world.",
-      "date": "2023-09-15",
-      "location": "Delhi",
-      "category": "Music",
-      "price": 300
+  "events": [{
+   "Q1001": {
+        "B": "Peking duck is a dish from Beijing that has been prepared since the Imperial era. The meat is characterized by its thin, crispy skin, with authentic versions of the dish serving mostly the skin and little meat, sliced in front of the diners by the cook. Ducks bred especially for the dish are slaughtered after 65 days and seasoned before being roasted in a closed or hung oven.",
+        "C": "Peking Duck",
+        "D": "$68.00",
+        "E": "E",
+        "F": "F",
+        "G": "G",
+        "H": "H",
+        "I": "I",
+        "J": "J",
+        "K": "K",
+        "L": "L",
+        "P": "Only for Dinner",
+        "R": "R",
+        "S": "S",
+        "T": "T",
+        "W": "W",
+        "X": 1001,
+        "Y": "Y",
+        "Z": 1700870600000
+      }
     },
     {
-      "id": 2,
-      "poster": "https://media.istockphoto.com/id/1320104418/photo/sport-background-green-field-in-soccer-stadium-ready-for-game-in-the-midfield-3d-illustration.jpg?s=612x612&w=0&k=20&c=P4R6zIzHvVlc3_wtsZPw7LoOG_TC9iV4DvpffHmCuU8=",
-      "name": "Soccer Match",
-      "description": "An exciting soccer match between two rival teams.",
-      "date": "2023-08-28",
-      "location": "Chennai",
-      "category": "Sports",
-      "price": 250
-    },
-    {
-      "id": 3,
-      "poster": "https://wpvip.edutopia.org/wp-content/uploads/2022/10/davis-169hero2-teachcode-twenty20.jpg?w=2880&quality=85",
-      "name": "Coding Workshop",
-      "description": "Learn the art of coding with experienced professionals.",
-      "date": "2023-09-05",
-      "location": "Banglore",
-      "category": "Workshop",
-      "price": 150
-    },
-    {
-      "id": 4,
-      "poster": "https://media.npr.org/assets/img/2017/12/21/_harlan_nprmusic10years-149_wide-78a7596027f7b4c023a21ad85f078e8a4165c230-s800-c85.jpg",
-      "name": "Rock Concert",
-      "description": "A high-energy rock concert with electrifying performances.",
-      "date": "2023-09-20",
-      "location": "Mumbai",
-      "category": "Music",
-      "price": 400
+      "Q1002": {
+        "C": "Gong Bao Chicken",
+        "B": "Kung Pao chicken also transcribed Gong Bao or Kung Po, is a spicy, stir-fried Chinese dish made with cubes of chicken, peanuts, vegetables and chili peppers. The classic dish in Sichuan cuisine originated in the Sichuan province of south-western China and includes Sichuan peppercorns.",
+        "D": "$45.00",
+        "E": "E",
+        "F": "F",
+        "G": "G",
+        "H": "H",
+        "I": "I",
+        "J": "J",
+        "K": "K",
+        "L": "L",
+        "P": "Lunch, Dinner",
+        "R": "R",
+        "S": "S",
+        "T": "T",
+        "W": "W",
+        "X": 1001,
+        "Y": "Y",
+        "Z": 1700870600000
+      }
     }
   ]
 
